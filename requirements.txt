@@ -1,0 +1,6 @@
+# Core dependencies (standard library only - no installation needed)
+# hashlib, os, pathlib, argparse - built into Python
+
+# Optional: Perceptual hashing (for similar image detection)
+imagehash
+pillow
